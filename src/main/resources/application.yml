@@ -1,1 +1,5 @@
-spring.application.name=jenkins-demo-java-sev
+spring:
+  application:
+    name: jenkins-demo-java-sev
+server:
+  port: 9001
